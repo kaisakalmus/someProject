@@ -1,6 +1,5 @@
 package ee.bcs.someProject;
 
-public class Student {
+public class School {
     //mingid muutujad
-    //lisasin mingid meetodid
 }
